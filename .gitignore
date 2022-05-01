@@ -1,0 +1,5 @@
+# Ignore the vetur.config.js file
+vetur.config.js
+
+# Ignore node_modules
+node_modules
